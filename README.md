@@ -11,3 +11,7 @@
 
 #Initial Configuration of JSON File.
 ![Initial Configuration of JSON File](images/json_Configuration.png)
+
+
+#Adding Key = Love and Value = Limitless.
+![File Architecture for the Project](images/adding_Key_Value_Pair.png)
