@@ -26,3 +26,5 @@
 #Searching the Key with Leaving Value Empty.
 ![Searching the Key.](images/searching_the_Key.png)
 
+#Returning the value of the Key.
+![Returning the Key Value.](images/key_Found.png)
