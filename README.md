@@ -14,4 +14,11 @@
 
 
 #Adding Key = Love and Value = Limitless.
-![File Architecture for the Project](images/adding_Key_Value_Pair.png)
+![Adding Key Value Pair](images/adding_Key_Value_Pair.png)
+
+
+#Greeting After Getting Word.
+![Greeting after adding Key-Value Pair](images/greeting.png)
+
+#Configuration of JSON File after adding Key-Value Pair.
+![JSON FIle COnfiguartion After Adding Key Value Pair](images/json_FIle_Configuration.png)
