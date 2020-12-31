@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Key-Value Data Store that supports the basic CRD Operations.</h2>
+
+<form action="/getResult" method = "POST">
+  <label for="fname">Key:</label><br>
+  <input type="text" id="key" name="key" value="John"><br>
+  <label for="lname">Value:</label><br>
+  <input type="text" id="value" name="value" value="Doe"><br><br>
+  <input type="submit" name="button_clicked" value="Create">
+  <input type="submit" name="button_clicked" value="Read">
+  <input type="submit" name="button_clicked" value="Delete">
+</form> 
+
+<p>If you click the "Create", "Read" or "Delete" button, the form-data will be sent to words.json.</p>
+<p>The changes are persistent that are made to hard-disk.</p>
+
+</body>
+</html>
